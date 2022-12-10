@@ -4,6 +4,6 @@
 
 #### - Use !!!wd!!! buttons to move
 
-#### -Use spacebar for attack enemies
+#### -Use spacebar to attack enemies
 
 ![preview img](preview.png)
