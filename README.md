@@ -1,9 +1,9 @@
-##### -Using HTML & JavaScript.
+###### -Using HTML & JavaScript.
 
-##### -Responsive for PC
+###### -Responsive for PC
 
-##### - Use !!!wd!!! buttons to move
+###### - Use !!!wd!!! buttons to move
 
-##### -Use spacebar to attack enemies
+###### -Use spacebar to attack enemies
 
 ![preview img](preview.png)
