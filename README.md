@@ -1,6 +1,6 @@
-###### -Using HTML & JavaScript.
+####### -Using HTML & JavaScript.
 
-###### -Responsive for PC
+####### -Responsive for PC
 
 ###### - Use !!!wd!!! buttons to move
 
