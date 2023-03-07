@@ -1,7 +1,7 @@
 # Space Invaders
 
 
--game on JavaScript
+-Space Invaders is a classic game that you should be able to find at any retro-based arcade. I am using a combination of HTML and vanilla JavaScript.
 
 <hr>
 
