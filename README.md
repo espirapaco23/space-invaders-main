@@ -1,9 +1,15 @@
-####### -Using HTML & JavaScript.
+# Space Invaders
 
-####### -Responsive for PC
 
-###### - Use !!!wd!!! buttons to move
+-game on JavaScript
 
-###### -Use spacebar to attack enemies
+<hr>
 
-###![preview img](preview.png)
+- Use !!!wd!!! buttons to move
+- Use spacebar to attack enemies.
+
+
+![preview img](/preview.jpg)
+
+
+
