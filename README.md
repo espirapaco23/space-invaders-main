@@ -9,7 +9,7 @@
 - Use spacebar to attack enemies.
 
 
-![preview img](/preview.jpg)
+![preview img](/preview.png)
 
 
 
